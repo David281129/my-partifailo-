@@ -1,3 +1,0 @@
-# Project settings
-
-DEBUG = True
